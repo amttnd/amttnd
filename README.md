@@ -1,4 +1,1 @@
-### :mens: :aquarius: :office: :bug: :tired_face: :money_with_wings: :iphone: :cat:
-    console.log("Have a nice day !!!");
-    
-![](source.gif)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamnd)](https://github.com/anuraghazra/github-readme-stats)
